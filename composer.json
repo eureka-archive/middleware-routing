@@ -1,0 +1,21 @@
+{
+  "name": "eureka/middleware-routing",
+  "description": "Middleware to manage routing.",
+  "type": "library",
+  "license": "MIT",
+
+  "authors": [
+    {
+      "name": "Romain Cottard",
+      "role": "Developer"
+    }
+
+  ],
+
+  "autoload": {
+    "psr-4": {
+      "Eureka\\Middleware\\Routing\\": "./src"
+    }
+  }
+
+}
